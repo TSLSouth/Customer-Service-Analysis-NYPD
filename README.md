@@ -1,17 +1,3 @@
----
-jupyter:
-  jupytext:
-    text_representation:
-      extension: .md
-      format_name: markdown
-      format_version: '1.3'
-      jupytext_version: 1.14.4
-  kernelspec:
-    display_name: base
-    language: python
-    name: python3
----
-
 # Project: Customer Service Analysis of NYPD
 
 <br>
