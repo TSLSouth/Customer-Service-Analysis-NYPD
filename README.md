@@ -195,19 +195,3 @@ df_opencasetime.drop('Animal in a Park').astype('timedelta64[m]').plot(kind='bar
 1) Analyze the service processes in the neighborhoods with the most requests (Brooklyn, Queens and Bronx) to decrease the time that cases remain open.
    
 2) Since driveway blocking (and correlated issues) and noise constitute the largest number of requests, specialized teams could be directed. As done by the 34th Precinct that has been working to address noisy businesses along Dyckman Street since 2018, focusing on the hot spots with the most complaints and adding more officers to midnight patrol. [Source](https://nypost.com/2018/03/04/these-nyc-neighborhoods-have-the-most-noise-complaints/).
-
-```python
-jupyter nbconvert --to markdown README.ipynb --output README.md
-```
-
-```python
-pip install jupytext
-```
-
-```python
-!jupytext --to markdown README.ipynb
-```
-
-```python
-
-```
